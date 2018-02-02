@@ -62,11 +62,11 @@
   "dependencies": {
     "btq-bitcore-lib": "^0.14.1",
     "bloom-filter": "^0.2.0",
-    "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
+    "btq-node-buffers": "^0.1.2",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build": "^0.9.1",
+    "btq-bitcore-build": "^0.9.1",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
