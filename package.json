@@ -1,6 +1,6 @@
 {
   "name": "btq-bitcore-p2p",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Interface to the BitcoinQuark P2P network for bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -60,13 +60,13 @@
     "url": "https://github.com/bitcoinquark/bitcore-p2p.git"
   },
   "dependencies": {
-    "btq-bitcore-lib": "^0.14.2",
+    "btq-bitcore-lib": "^0.14.3",
     "bloom-filter": "^0.2.0",
     "btq-node-buffers": "^0.1.2",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "btq-bitcore-build": "^0.9.2",
+    "btq-bitcore-build": "^0.9.3",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
